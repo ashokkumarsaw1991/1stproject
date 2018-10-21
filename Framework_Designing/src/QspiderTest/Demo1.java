@@ -15,6 +15,7 @@ public class Demo1 {
 			i=index+srch.length();
 		}
 		System.out.println("The count of love in above String is = "+count);
+		System.out.println("==============================================");
 
 	}
 
